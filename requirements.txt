@@ -1,7 +1,7 @@
 # Requirements for iyp-spider
 cssselect==0.9.1
 google-api-python-client==1.2
-httplib2==0.8
+httplib2==0.19.0
 lxml==3.3.1
 pyquery==1.2.8
 wsgiref==0.1.2
